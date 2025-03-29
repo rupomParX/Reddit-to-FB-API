@@ -1,9 +1,9 @@
 <h2>this a script of automated posting via facebook api</h2>
-<ol type=numbers>
+<ol type="numbers">
 <li>install these python pip</li>
   <ol type="numbers">
     <li>pip install praw</li>
-    <li></li>pip install requests</li>
+    <li>pip install requests</li>
        <li>pip install schedule</li>
   </li>pip install ffmpeg-python</li>
   </ol>
