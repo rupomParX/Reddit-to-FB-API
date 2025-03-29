@@ -4,8 +4,8 @@
   <ol type="numbers">
     <li>pip install praw</li>
     <li>pip install requests</li>
-       <li>pip install schedule</li>
-  </li>pip install ffmpeg-python</li>
+    <li>pip install schedule</li>
+    <li>pip install ffmpeg-python</li>
   </ol>
 <li>get facebook api from facebook dev</li>
 <li>Use a page as target</li>
